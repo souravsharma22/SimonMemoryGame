@@ -35,14 +35,15 @@ A fun and interactive **Simon Game** clone built using **HTML**, **CSS**, and **
 Test your memory by following the color sequence in this web-based Simon Game!
 
 ## 🔥 Game Preview
-
+<img src="images/image_4.png" width="500" alt="Gameplay Demo">
 <img src="images/image_1.png" width="500" alt="Gameplay Demo">
 
 ## Game play
 
+<img src="images/image_3.png" width="500" alt="Gameplay Demo">
 <img src="images/image_2.png" width="500" alt="Gameplay Demo">
-<img src="images/image_3" width="500" alt="Gameplay Demo">
-<img src="images/image_4" width="500" alt="Gameplay Demo">
+
+
 
 
 
